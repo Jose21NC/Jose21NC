@@ -47,11 +47,13 @@ Dicen que soy el único dev que disfruta más haciendo la presentación del Pitc
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 Mis Métricas de Impacto
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jose21NC&show_icons=true&theme=radical&hide_border=true" alt="Jose21NC Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose21NC&layout=compact&theme=radical&hide_border=true" alt="Jose21NC Lenguajes" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose21NC&theme=radical&hide_border=true" alt="Jose21NC Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose21NC&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Jose21NC Lenguajes" />
 </p>
 
 ---
