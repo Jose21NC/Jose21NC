@@ -55,13 +55,6 @@ Dicen que soy el único dev que disfruta más haciendo la presentación del Pitc
 
 ---
 
-### 📊 Actividad en Tiempo Real
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jose21NC&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=333" alt="Jose21NC Stats" />
-</p>
-
----
 
 ### 📬 Conectemos
 
