@@ -47,13 +47,18 @@ Dicen que soy el único dev que disfruta más haciendo la presentación del Pitc
 
 ---
 
-### 📊 Mis Métricas de Impacto
+### 🏆 Mis Logros
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose21NC&theme=radical&hide_border=true" alt="Jose21NC Streak" />
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jose21NC&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Jose21NC" /></a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose21NC&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Jose21NC Lenguajes" />
+
+---
+
+### 📊 Actividad en Tiempo Real
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jose21NC&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=333" alt="Jose21NC Stats" />
 </p>
 
 ---
