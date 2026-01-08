@@ -47,11 +47,12 @@ Dicen que soy el único dev que disfruta más haciendo la presentación del Pitc
 
 ---
 
-### 🏆 Mis Logros
+### 🏆 Mi trabajo
 
-<p align="left">
+[<p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jose21NC&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Jose21NC" /></a>
-</p>
+</p>](https://github-readme-stats.hackclub.dev/api/wakatime?username=25532&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark
+)
 
 ---
 
